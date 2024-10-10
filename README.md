@@ -1,5 +1,5 @@
 # MS-SQL-Practice
 
-### Employee_Payroll :
+### Prctice Problems List :
 
-1. Here I am Practicing Basic CRUD commands 
+1. Employee_Payroll : Basic CRUD commands 
