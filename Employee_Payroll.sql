@@ -58,5 +58,3 @@ UPDATE employee_payroll
 UPDATE employee_payroll 
 	set gender='F'
 	where Name='Ayesha';
-
-
