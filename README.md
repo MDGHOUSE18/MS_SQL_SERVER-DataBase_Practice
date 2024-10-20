@@ -10,7 +10,9 @@
     3. Table Management (CREATE TABLE,ALTER TABLE, TRUNCATE TABLE, DROP TABLE)
     4. Additional Commands (RENAME)
 4. DQL - SELECT
-
+5. Sorting Data - ORDER BY
+6. Limiting Rows - OFFSET FETCH & SELECT TOP
+7. Filtering Data
 
 
 
