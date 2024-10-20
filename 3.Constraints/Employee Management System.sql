@@ -10,7 +10,7 @@
 
 Create Database constraints;
 
-use constraints;
+use constraints;	
 
 --Step 1: Create the Departments Table (Referenced by Employee Table)
 CREATE TABLE Departments (
