@@ -8,7 +8,7 @@
     1. Database Management (CREATE DATABASE, DROP DATABASE)
     2. Schema Management (CREATE SCHEMA, ALTER SCHEMA, DROP SCHEMA)
     3. Table Management (CREATE TABLE,ALTER TABLE, TRUNCATE TABLE, DROP TABLE)
-    Additional Commands (RENAME)
+    4. Additional Commands (RENAME)
 4. DQL - SELECT
 
 
