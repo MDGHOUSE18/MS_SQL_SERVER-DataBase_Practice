@@ -1,0 +1,11 @@
+role_id,role_name,description
+1,Admin,Full access to all functionalities and user management
+2,Customer,Can browse products and place orders
+3,Vendor,Manages their own products and views sales reports
+4,Support Agent,Manages support tickets and assists customers
+5,Content Manager,Oversees product descriptions and promotional content
+6,Inventory Manager,Manages inventory levels and stock
+7,Marketing Specialist,Handles marketing campaigns and customer engagement strategies
+8,Finance Manager,Accesses financial reports and manages transactions
+9,Analyst,Accesses reports and analytics for performance assessment
+10,Guest,Browses the platform but cannot place orders or access accounts
